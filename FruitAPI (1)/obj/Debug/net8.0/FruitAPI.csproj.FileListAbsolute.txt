@@ -1,83 +1,125 @@
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\appsettings.Development.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\appsettings.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\FruitAPI.staticwebassets.endpoints.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\FruitAPI.exe
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\FruitAPI.deps.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\FruitAPI.runtimeconfig.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\FruitAPI.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\FruitAPI.pdb
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.csproj.AssemblyReference.cache
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.AssemblyInfoInputs.cache
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.AssemblyInfo.cs
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.csproj.CoreCompileInputs.cache
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.sourcelink.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\scopedcss\bundle\FruitAPI.styles.css
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets.build.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets.development.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets\msbuild.FruitAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets\msbuild.FruitAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.FruitAPI.props
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FruitAPI.props
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FruitAPI.props
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.csproj.Up2Date
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\refint\FruitAPI.dll
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.pdb
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\FruitAPI.genruntimeconfig.cache
-C:\LabGit\APL-2002-develop-aspnet-core-consumes-api\Allfiles\Labs\FruitAPI\obj\Debug\net8.0\ref\FruitAPI.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\appsettings.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\FruitAPI.staticwebassets.endpoints.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\FruitAPI.exe
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\FruitAPI.deps.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\FruitAPI.runtimeconfig.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\FruitAPI.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\FruitAPI.pdb
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.csproj.AssemblyReference.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.AssemblyInfoInputs.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.AssemblyInfo.cs
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.csproj.CoreCompileInputs.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\scopedcss\bundle\FruitAPI.styles.css
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.csproj.Up2Date
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\refint\FruitAPI.dll
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.pdb
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\FruitAPI.genruntimeconfig.cache
-C:\Users\Kaizorainakitty\Downloads\FruitAPI (1)\obj\Debug\net8.0\ref\FruitAPI.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/appsettings.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/FruitAPI.staticwebassets.endpoints.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/FruitAPI.exe
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/FruitAPI.deps.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/FruitAPI.runtimeconfig.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/FruitAPI.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/FruitAPI.pdb
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.csproj.AssemblyReference.cache
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.AssemblyInfoInputs.cache
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.AssemblyInfo.cs
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.csproj.CoreCompileInputs.cache
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.sourcelink.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/scopedcss/bundle/FruitAPI.styles.css
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets/msbuild.FruitAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets/msbuild.FruitAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.FruitAPI.props
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FruitAPI.props
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FruitAPI.props
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.csproj.Up2Date
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/refint/FruitAPI.dll
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.pdb
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/FruitAPI.genruntimeconfig.cache
+C:/LabGit/APL-2002-develop-aspnet-core-consumes-api/Allfiles/Labs/FruitAPI/obj/Debug/net8.0/ref/FruitAPI.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/appsettings.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.staticwebassets.endpoints.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.exe
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.deps.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.runtimeconfig.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.pdb
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.csproj.AssemblyReference.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.AssemblyInfoInputs.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.AssemblyInfo.cs
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.csproj.CoreCompileInputs.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/scopedcss/bundle/FruitAPI.styles.css
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/swae.build.ex.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.csproj.Up2Date
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/refint/FruitAPI.dll
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.pdb
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.genruntimeconfig.cache
+C:/Users/Kaizorainakitty/Downloads/FruitAPI (1)/obj/Debug/net8.0/ref/FruitAPI.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/appsettings.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.staticwebassets.endpoints.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/FruitAPI
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.deps.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.runtimeconfig.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/FruitAPI.pdb
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.Annotations.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.csproj.AssemblyReference.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/rpswa.dswa.cache.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.AssemblyInfoInputs.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.AssemblyInfo.cs
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.csproj.CoreCompileInputs.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.sourcelink.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/scopedcss/bundle/FruitAPI.styles.css
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.build.json.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/swae.build.ex.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.csproj.Up2Date
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/refint/FruitAPI.dll
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.pdb
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/FruitAPI.genruntimeconfig.cache
+/workspaces/Module-8-Exercise/FruitAPI (1)/obj/Debug/net8.0/ref/FruitAPI.dll
